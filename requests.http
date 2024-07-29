@@ -1,0 +1,9 @@
+POST http://localhost:5023/api/shopping-cart/123456/items
+Content-Type: application/json
+
+{
+    "productId": "1",
+    "productName": "Samsung Z Fold 4",
+    "price": 1500,
+    "quantity": 1
+}
