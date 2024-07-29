@@ -2,11 +2,13 @@ FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build-env
 WORKDIR /app
 
 # Copy everything
-COPY . ./
+COPY ./DaprShop.ShoppingCart.Api ./DaprShop.ShoppingCart.Api
+COPY ./DaprShop.Contracts ./DaprShop.Contracts
+
 # Restore as distinct layers
-RUN dotnet restore
+RUN dotnet restore ./DaprShop.ShoppingCart.Api
 # Build and publish a release
-RUN dotnet publish -c Release -o out
+RUN dotnet publish -c Release -o out ./DaprShop.ShoppingCart.Api
 
 # Build runtime image
 FROM mcr.microsoft.com/dotnet/aspnet:8.0
