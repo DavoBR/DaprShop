@@ -7,6 +7,7 @@
     <Version>1.0.0</Version>
 
     <ContainerFamily>alpine</ContainerFamily>
+    <ContainerRegistry>ghcr.io</ContainerRegistry>
     <ContainerRepository>davobr/daprshop-recommandation-api</ContainerRepository>
     <ContainerImageTags>1.0.0;latest</ContainerImageTags>
   </PropertyGroup>

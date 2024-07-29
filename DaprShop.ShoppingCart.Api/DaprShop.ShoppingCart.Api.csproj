@@ -6,6 +6,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
 
     <ContainerFamily>alpine</ContainerFamily>
+    <ContainerRegistry>ghcr.io</ContainerRegistry>
     <ContainerRepository>davobr/daprshop-shoppingcart-api</ContainerRepository>
     <ContainerImageTags>1.0.0;latest</ContainerImageTags>
   </PropertyGroup>
