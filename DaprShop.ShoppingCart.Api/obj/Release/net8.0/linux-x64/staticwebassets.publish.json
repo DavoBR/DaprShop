@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "6TaSYia9eoCa26dwH3ZC43o5xuGzH9ITRHaqW1XE564=",
+  "Source": "DaprShop.ShoppingCart.Api",
+  "BasePath": "_content/DaprShop.ShoppingCart.Api",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "lo6SC3MTu0k=",
+  "dgSpecHash": "lltAXGN2Ukg=",
   "success": true,
   "projectFilePath": "/Users/david/Develop/home/DaprShop/DaprShop.ShoppingCart.Api/DaprShop.ShoppingCart.Api.csproj",
   "expectedPackageFiles": [
@@ -21,7 +21,8 @@
     "/Users/david/.nuget/packages/system.io.pipelines/4.7.2/system.io.pipelines.4.7.2.nupkg.sha512",
     "/Users/david/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512",
     "/Users/david/.nuget/packages/system.net.http.json/5.0.0/system.net.http.json.5.0.0.nupkg.sha512",
-    "/Users/david/.nuget/packages/system.runtime.compilerservices.unsafe/4.5.2/system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512"
+    "/Users/david/.nuget/packages/system.runtime.compilerservices.unsafe/4.5.2/system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "/Users/david/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.6/microsoft.netcore.app.host.linux-x64.8.0.6.nupkg.sha512"
   ],
   "logs": []
 }
