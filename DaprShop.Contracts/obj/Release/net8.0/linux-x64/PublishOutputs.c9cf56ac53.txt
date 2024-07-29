@@ -1,3 +1,0 @@
-/Users/david/Develop/home/DaprShop/DaprShop.Contracts/bin/Release/net8.0/linux-x64/publish/DaprShop.Contracts.dll
-/Users/david/Develop/home/DaprShop/DaprShop.Contracts/bin/Release/net8.0/linux-x64/publish/DaprShop.Contracts.deps.json
-/Users/david/Develop/home/DaprShop/DaprShop.Contracts/bin/Release/net8.0/linux-x64/publish/DaprShop.Contracts.pdb
